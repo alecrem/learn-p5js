@@ -2,3 +2,10 @@
 
 - Based on [p5.js sandbox](https://hnymA.github.io/p5.js-sandbox)
 - Added problems and self-testing functionality to sketches
+
+## How to run
+
+```shell
+npm install
+npm start
+```
