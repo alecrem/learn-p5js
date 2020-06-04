@@ -1,8 +1,8 @@
 {
-  "name": "p5.js-sandbox",
+  "name": "learn-p5js",
   "version": "1.0.0",
-  "description": "p5.js sandbox",
-  "author": "Kaisei Hanayama",
+  "description": "Studio Kura p5.js講座",
+  "author": "Alejandro Cremades",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
